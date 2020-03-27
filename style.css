@@ -3,7 +3,7 @@
 	position: fixed;
 	width: 100%;
 	height: 35px;
-	background-color: white;
+	background-color: lightblue;
 }
 
 body{
@@ -14,8 +14,4 @@ body{
 	font-family: "Comic Sans MS", cursive, sans-serif;
 }
 
-.fixed-nav-bar a:hover{
-	background-color: blue;
-	color: black;
-	height: 100%
-}
+
