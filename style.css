@@ -8,6 +8,7 @@
 	a:link {color:black;}
 	a:visited {color:black;}
 	a:hover {color: white;}
+	a:active {color: white;}
 }
 
 body{
