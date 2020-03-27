@@ -3,11 +3,11 @@
 	position: fixed;
 	width: 100%;
 	height: 35px;
-	background-image: url("pictures/bg.jpg");
+	background-color: white;
 }
 
 body{
-	background-color: lightblue;
+	background-image: url("pictures/bg.jpg");
 }
 
 #roy{
