@@ -5,6 +5,7 @@
 	height: 35px;
 	color: black;
 	background: lightblue;
+	a:link {color:black}
 }
 
 body{
