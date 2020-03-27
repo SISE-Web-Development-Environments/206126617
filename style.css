@@ -5,7 +5,8 @@
 	height: 35px;
 	color: black;
 	background: lightblue;
-	a:link {color:black}
+	a:link {color:black;}
+	a:hover {color: orange;}
 }
 
 body{
