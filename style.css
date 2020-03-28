@@ -14,8 +14,12 @@ body{
   	background-size: cover;
 }
 
-#roy{
+h1,h2{
 	font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+#roy{
+	font-family:Arial;
 }
 
 
