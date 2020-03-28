@@ -6,6 +6,14 @@
 	background-color: lightblue;
 }
 
+.menu{
+	a:link {color:black;}
+	a:visited {color:white;}
+	a:hover{color:white;}
+	a:active{color:black;}
+}
+
+
 body{
 	background-image: url("pictures/bg.jpeg");
 	height: 100%;
