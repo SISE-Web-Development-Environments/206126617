@@ -6,19 +6,19 @@
 	background-color: #66CDAA;
 }
 
-#menu a.link{
+a.link{
 	color: black;
 }
 
-#menu a.visited{
+a.visited{
 	color: white;
 }
 
-#menu a.hover{
+a.hover{
 	color: white;
 }
 
-#menu a.active{
+a.active{
 	color: black;
 }
 
